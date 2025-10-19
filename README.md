@@ -45,4 +45,3 @@
 
 ###
 
-<p align="center"><b>Hello, World!</b> 🌍</p>
