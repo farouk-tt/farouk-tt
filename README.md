@@ -16,7 +16,7 @@
   From <b>Libya</b> 🇱🇾, based in <b>the Netherlands</b> 🇳🇱 <br><br>
   🎓 Studying <b>ICT</b> at <b>Fontys University (FHICT)</b><br>
   ⚡ Passionate about <b>software engineering</b>, <b>automation</b>, and <b>OSINT</b><br>
-  💻 Trying to build apps, games, and tools in <b>Rust</b>, <b>JavaScript</b>, and <b>Python</b><br>
+  💻 Building apps, games, and tools in <b>Rust</b>, <b>JavaScript</b>, and <b>Python</b><br>
 </p>
 
 ###
