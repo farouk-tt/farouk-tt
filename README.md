@@ -13,7 +13,7 @@
 <h1 align="center">👋 Hey, I'm Farouk</h1>
 
 <p align="center">
-  From <b>Libya</b>, based in <b>the Netherlands</b> 🇳🇱<br><br>
+  From <b>Libya</b> 🇱🇾, based in <b>the Netherlands</b> 🇳🇱br><br>
   🎓 Studying <b>ICT</b> at <b>Fontys University (FHICT)</b><br>
   ⚡ Passionate about <b>software engineering</b>, <b>automation</b>, and <b>OSINT</b><br>
   💻 Trying to build apps, games, and tools in <b>Rust</b>, <b>JavaScript</b>, and <b>Python</b><br>
