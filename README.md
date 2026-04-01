@@ -10,11 +10,8 @@
 
 ###
 
-<h1 align="center">👋 Hey, I'm Farouk</h1>
+<h1 align="center">hey, I'm Farouk</h1>
 
 <p align="center">
-  From <b>Libya</b>, based in <b>the Netherlands</b><br><br>
-  🎓 Studying <b>ICT</b> at <b>Fontys University (FHICT)</b><br>
-  ⚡ Passionate about <b>software engineering</b>, <b>automation</b>, and <b>OSINT</b><br>
-  💻 Building apps, games, and tools in <b>Rust</b>, <b>JavaScript</b>, and <b>Python</b><br>
+  Currently learning offensive & defensive security<br>
 </p>
