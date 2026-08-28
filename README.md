@@ -13,5 +13,5 @@
 <h1 align="center">hey, I'm Farouk</h1>
 
 <p align="center">
-  Currently learning offensive & defensive security<br>
+  Currently being taught ENISA roles<br>
 </p>
